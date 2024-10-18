@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @willamangles
-- 👀 I’m interested in R
+- 👀 I’m interested in Data Science
 
 
 <!---
